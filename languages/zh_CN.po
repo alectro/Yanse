@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yanse\n"
+"POT-Creation-Date: 2018-07-30 00:02+0800\n"
+"PO-Revision-Date: 2018-07-30 00:04+0800\n"
+"Last-Translator: Alejandro Urrutia <alectro@gmail.com>\n"
+"Language-Team: Ale Urrutia <alectro@gmail.com>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;_;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: yanse\n"
+"X-Poedit-SearchPath-1: yanse-child\n"
+"X-Poedit-SearchPathExcluded-0: yanse/foundation\n"
+
+#: yanse-child/footer.php:27
+#, fuzzy, php-format
+msgid "Subscribe to %s feed"
+msgstr "订阅%s 提要"
+
+#: yanse-child/footer.php:36
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "在Twitter上关注  %s"
+
+#: yanse-child/footer.php:45
+#, fuzzy, php-format
+msgid "Follow %s on Facebook"
+msgstr "在 Facebook 上跟随%s"
+
+#: yanse-child/footer.php:54
+#, php-format
+msgid "Follow %s on Google+"
+msgstr "按%s谷歌+"
+
+#: yanse-child/footer.php:63
+#, fuzzy, php-format
+msgid "Friend %s on WeChat"
+msgstr "微信上的好友%s"
+
+#: yanse-child/footer.php:71
+#, fuzzy, php-format
+msgid "Follow %s on Weibo"
+msgstr "按%s新浪微博"
+
+#: yanse-child/footer.php:80
+#, fuzzy, php-format
+msgid "Follow %s on Douban"
+msgstr "在豆瓣上跟随%s"
+
+#: yanse-child/footer.php:89
+#, fuzzy, php-format
+msgid "Subscribe to %s on MailChimp"
+msgstr "在 MailChimp 上订阅%s"
+
+#: yanse-child/footer.php:98
+#, php-format
+msgid "Connect with %s on LinkedIn"
+msgstr "%s在LinkedIn上联系"
+
+#: yanse-child/footer.php:107
+#, fuzzy, php-format
+msgid "Connect with %s on WordPress"
+msgstr "在 WordPress 上与%s 连接"
+
+#: yanse-child/footer.php:116
+#, fuzzy, php-format
+msgid "Connect with %s on Medium"
+msgstr "在媒体上与%s 连接"
+
+#: yanse-child/footer.php:125
+#, fuzzy, php-format
+msgid "Follow %s on Behance"
+msgstr "在 Behance 上跟随%s"
+
+#: yanse-child/footer.php:135
+#, fuzzy, php-format
+msgid "Follow %s on Dribbble"
+msgstr "在 Dribbble 上跟随%s"
+
+#: yanse-child/footer.php:144
+#, fuzzy, php-format
+msgid "%s profile on Designer News"
+msgstr "%s 在设计器新闻上的配置文件"
+
+#: yanse-child/footer.php:153
+#, php-format
+msgid "Follow %s on Pinterest"
+msgstr "%s在Pinterest上关注"
+
+#: yanse-child/footer.php:162
+#, php-format
+msgid "Follow %s on Instagram"
+msgstr "%s在Instagram上关注"
+
+#: yanse-child/footer.php:171
+#, php-format
+msgid "Follow %s on Flickr"
+msgstr "%s在Flickr关注我们"
+
+#: yanse-child/footer.php:180
+#, fuzzy, php-format
+msgid "Follow %s on 500px"
+msgstr "在500px 上跟随%s"
+
+#: yanse-child/footer.php:189
+#, fuzzy, php-format
+msgid "Follow %s on Github"
+msgstr "在 Github 上跟随%s"
+
+#: yanse-child/footer.php:198
+#, fuzzy, php-format
+msgid "Follow %s on Bitbucket"
+msgstr "在 Bitbucket 上跟随%s"
+
+#: yanse-child/footer.php:207
+#, fuzzy, php-format
+msgid "Follow %s on StackOverflow"
+msgstr "在 StackOverflow 上跟随%s"
+
+#: yanse-child/footer.php:216
+#, fuzzy, php-format
+msgid "Follow %s on Youtube"
+msgstr "跟随%s 在 Youtube 上"
+
+#: yanse-child/footer.php:225
+#, fuzzy, php-format
+msgid "Follow %s on Vimeo"
+msgstr "在 Vimeo 上跟随%s"
+
+#: yanse-child/footer.php:234
+#, fuzzy, php-format
+msgid "Follow %s on Youku"
+msgstr "在优酷上跟随%s"
+
+#: yanse-child/footer.php:243
+#, fuzzy, php-format
+msgid "Follow %s on Spotify"
+msgstr "在 Spotify 上跟随%s"
+
+#: yanse-child/footer.php:252
+#, fuzzy, php-format
+msgid "Follow %s on Last.fm"
+msgstr "最后跟随%s. fm"
+
+#: yanse-child/footer.php:261
+#, fuzzy, php-format
+msgid "Follow %s on SoundCloud"
+msgstr "在 SoundCloud 上跟随%s"
+
+#: yanse-child/lib/breadcrumbs.php:12
+msgid "Home"
+msgstr "首页"
+
+#: yanse-child/lib/breadcrumbs.php:13
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "档案分类 \"%s\""
+
+#: yanse-child/lib/breadcrumbs.php:14
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "搜索结果 \"%s\" 查询"
+
+#: yanse-child/lib/breadcrumbs.php:15
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "文章标签 \"%s\""
+
+#: yanse-child/lib/breadcrumbs.php:16
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "文章由 %s 发布"
+
+#: yanse-child/lib/breadcrumbs.php:17
+msgid "Error 404"
+msgstr "错误 404"
+
+#: yanse-child/lib/breadcrumbs.php:18
+#, php-format
+msgid "Page %s"
+msgstr "页 %s"
+
+#: yanse-child/lib/breadcrumbs.php:19
+#, php-format
+msgid "Comment Page %s"
+msgstr "注释页%s"
+
+#: yanse-child/lib/custom-post-types.php:19
+msgid "Work"
+msgstr "工作"
+
+#: yanse-child/lib/custom-post-types.php:20
+#, fuzzy
+msgid "Parent Work:"
+msgstr "父级工作"
+
+#: yanse-child/lib/custom-post-types.php:21
+msgid "All Works"
+msgstr "所有作品"
+
+#: yanse-child/lib/custom-post-types.php:22
+msgid "View Work"
+msgstr "查看作品"
+
+#: yanse-child/lib/custom-post-types.php:23
+msgid "Add New Work"
+msgstr "增加新工作"
+
+#: yanse-child/lib/custom-post-types.php:24
+msgid "New Work"
+msgstr "新工作"
+
+#: yanse-child/lib/custom-post-types.php:25
+msgid "Edit Work"
+msgstr "编辑工作"
+
+#: yanse-child/lib/custom-post-types.php:26
+#, fuzzy
+msgid "Update Work"
+msgstr "更新工作"
+
+#: yanse-child/lib/custom-post-types.php:27
+#, fuzzy
+#| msgid "Search Results for"
+msgid "Search works"
+msgstr "搜索"
+
+#: yanse-child/lib/custom-post-types.php:28
+msgid "No works found"
+msgstr "没有找到文章"
+
+#: yanse-child/lib/custom-post-types.php:29
+msgid "No works found in Trash"
+msgstr "没有在回收站中找到作品"
+
+#: yanse-child/lib/custom-post-types.php:32
+msgid "work"
+msgstr "工作"
+
+#: yanse-child/lib/custom-post-types.php:33
+#, fuzzy
+msgid "Work information pages"
+msgstr "工作信息页"
+
+#: yanse-child/lib/custom-post-types.php:72
+msgid "Career"
+msgstr "职业生涯"
+
+#: yanse-child/lib/custom-post-types.php:73
+#, fuzzy
+msgid "Parent Career:"
+msgstr "家长职业:"
+
+#: yanse-child/lib/custom-post-types.php:74
+#, fuzzy
+msgid "All Careers"
+msgstr "所有职业"
+
+#: yanse-child/lib/custom-post-types.php:75
+#, fuzzy
+msgid "View Career"
+msgstr "查看事业"
+
+#: yanse-child/lib/custom-post-types.php:76
+#, fuzzy
+msgid "Add New Career"
+msgstr "添加新的职业"
+
+#: yanse-child/lib/custom-post-types.php:77
+#, fuzzy
+msgid "New Career"
+msgstr "新的事业"
+
+#: yanse-child/lib/custom-post-types.php:78
+#, fuzzy
+msgid "Edit Career"
+msgstr "编辑事业"
+
+#: yanse-child/lib/custom-post-types.php:79
+#, fuzzy
+msgid "Update Career"
+msgstr "更新职业"
+
+#: yanse-child/lib/custom-post-types.php:80
+#, fuzzy
+msgid "Search careers"
+msgstr "搜索职业"
+
+#: yanse-child/lib/custom-post-types.php:81
+#, fuzzy
+msgid "No careers found"
+msgstr "找不到职业"
+
+#: yanse-child/lib/custom-post-types.php:82
+#, fuzzy
+msgid "No careers found in Trash"
+msgstr "在垃圾中找不到职业"
+
+#: yanse-child/lib/custom-post-types.php:85
+msgid "career"
+msgstr "职业生涯"
+
+#: yanse-child/lib/custom-post-types.php:86
+#, fuzzy
+msgid "Carrer information pages"
+msgstr "事业信息页面"
+
+#: yanse-child/lib/metaboxes.php:83
+msgid "Beijing"
+msgstr "北京"
+
+#: yanse-child/lib/metaboxes.php:84
+msgid "China"
+msgstr "中国"
+
+#: yanse-child/lib/metaboxes.php:85
+msgid "Uruguay"
+msgstr "乌拉圭"
+
+#: yanse-child/lib/metaboxes.php:86
+msgid "Anywhere"
+msgstr "任何地方"
+
+#: yanse-child/lib/metaboxes.php:95
+msgid "Full-time"
+msgstr "全职"
+
+#: yanse-child/lib/metaboxes.php:96
+msgid "Part-time"
+msgstr "兼职"
+
+#: yanse-child/lib/metaboxes.php:97
+msgid "Freelance"
+msgstr "自由职业"
+
+#: yanse-child/lib/metaboxes.php:106
+msgid "Chinese"
+msgstr "中文"
+
+#: yanse-child/lib/metaboxes.php:107
+msgid "English"
+msgstr "英语"
+
+#: yanse-child/lib/metaboxes.php:108
+msgid "Spanish"
+msgstr "西班牙语"
+
+#: yanse-child/lib/metaboxes.php:109
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+#: yanse-child/lib/metaboxes.php:119
+msgid "Undergraduate"
+msgstr "本科"
+
+#: yanse-child/lib/metaboxes.php:120
+msgid "College"
+msgstr "大学"
+
+#: yanse-child/lib/metaboxes.php:121
+msgid "Postgraduate"
+msgstr "研究生"
+
+#: yanse-child/lib/metaboxes.php:122
+msgid "Others"
+msgstr "其他"
+
+#: yanse-child/lib/metaboxes.php:173
+msgid "Work details"
+msgstr "作品详细信息"
+
+#: yanse-child/lib/metaboxes.php:174
+#, fuzzy
+msgid "Some additional information about this project."
+msgstr "有关此项目的其他信息。"
+
+#: yanse-child/lib/metaboxes.php:185
+#, fuzzy
+msgid "Project's nature"
+msgstr "项目性质"
+
+#: yanse-child/lib/metaboxes.php:190 yanse-child/lib/metaboxes.php:211
+msgid "Client"
+msgstr "客户"
+
+#: yanse-child/lib/metaboxes.php:191
+#, fuzzy
+msgid "Pro bono"
+msgstr "公益"
+
+#: yanse-child/lib/metaboxes.php:192
+msgid "Personal"
+msgstr "个人"
+
+#: yanse-child/lib/metaboxes.php:197
+#, fuzzy
+msgid "Whether is a client's or a personal project."
+msgstr "无论是客户还是个人项目。"
+
+#: yanse-child/lib/metaboxes.php:229
+msgid "Country"
+msgstr "国家"
+
+#: yanse-child/lib/metaboxes.php:247
+#, fuzzy
+msgid "Year of creation"
+msgstr "创建年份"
+
+#: yanse-child/lib/metaboxes.php:253
+msgid "yy"
+msgstr "年"
+
+#: yanse-child/lib/metaboxes.php:268
+msgid "Color picker"
+msgstr "颜色选择器"
+
+#: yanse-child/lib/metaboxes/inc/core.php:40
+msgid "Documentation"
+msgstr "文档"
+
+#: yanse-child/lib/metaboxes/inc/core.php:41
+msgid "Extensions"
+msgstr "扩展"
+
+#: yanse-child/lib/metaboxes/inc/field.php:192
+msgid "+ Add more"
+msgstr "+添加更多"
+
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:23
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:87
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:104
+msgid "Delete"
+msgstr "删除"
+
+#: yanse-child/lib/metaboxes/inc/fields/button.php:29
+msgid "Click me"
+msgstr "点击我"
+
+#: yanse-child/lib/metaboxes/inc/fields/checkbox.php:82
+msgid "Yes"
+msgstr "是"
+
+#: yanse-child/lib/metaboxes/inc/fields/checkbox.php:82
+msgid "No"
+msgstr "否"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr "选择文件"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:49
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "Select"
+msgstr "选择"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:51
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:67
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "移除"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "您只能上传最大 %d 文件"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "您最多只能上传%d个档案"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr "错误：无法删除文件"
+
+#: yanse-child/lib/metaboxes/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "查找地址"
+
+#: yanse-child/lib/metaboxes/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "嵌入HTML不可用。"
+
+#: yanse-child/lib/metaboxes/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "选择一个帖子"
+
+#: yanse-child/lib/metaboxes/inc/fields/post.php:38
+#: yanse-child/lib/metaboxes/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "选择 %s"
+
+#: yanse-child/lib/metaboxes/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr "选择一个项目"
+
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "All"
+msgstr "所有"
+
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "None"
+msgstr "无"
+
+#: yanse-child/lib/metaboxes/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "选择一个术语"
+
+#: yanse-child/lib/metaboxes/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "选择一个用户"
+
+#: yanse-child/lib/metaboxes/inc/validation.php:49
+msgid "Please correct the errors highlighted below and try again."
+msgstr "请更正下面突出显示的错误，然后重试。"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:91
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "单击OK重置。任何主题设置将丢失!"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr "恢复默认选项。"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr "选项已保存。"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "没有选择文件"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:65
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "上传"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "升级您的WordPress版本以获得全媒体支持。"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "查看文件"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "不重复"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "水平重复"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "垂直重复"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "全部重复"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "左上角"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "顶部中心"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "右上"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "左中"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "中间中心"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "右中"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "左下"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "底部中心"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "右下"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "正常滚动"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "固定位置"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "正常"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "斜体"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "粗体"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "加粗斜体"
+
+#: yanse-child/lib/pagination.php:43
+msgid "Previous"
+msgstr "上一个"
+
+#: yanse-child/lib/pagination.php:44
+msgid "Next"
+msgstr "下一个"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:27
+#, fuzzy
+msgid "Job ID: "
+msgstr "职务编号"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:31
+msgid "Date: "
+msgstr "日期："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:37
+msgid "Location: "
+msgstr "位置: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:46
+msgid "Period: "
+msgstr "预定时间："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:57
+msgid "Type: "
+msgstr "类型："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:72
+msgid "Languages: "
+msgstr "语言："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:72
+#: yanse-child/template/cpt/cpt-careers-single.php:84
+#: yanse-child/template/cpt/cpt-works-single.php:49
+#: yanse-child/template/cpt/cpt-works-single.php:59
+msgid ", "
+msgstr ", "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:84
+#, fuzzy
+msgid "Education Level: "
+msgstr "教育程度"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:93
+#, fuzzy
+msgid "Open Positions: "
+msgstr "空缺职位"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:99
+#, fuzzy
+msgid "<h3>Job Description:</h3> "
+msgstr "职务描述："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:115
+msgid "Requirements:"
+msgstr "要求："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:126
+msgid "Skills: "
+msgstr "技能："
+
+#: yanse-child/template/cpt/cpt-careers-single.php:134
+#, fuzzy
+msgid "Apply for "
+msgstr "申请企业代币拨款"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:135
+#: yanse-child/template/cpt/cpt-careers-single.php:146
+msgid "Apply"
+msgstr "应用"
+
+#: yanse-child/template/cpt/page-careers.php:43
+msgid "Open positions"
+msgstr "开放职位"
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Welcome "
+msgstr "欢迎 "
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Profile"
+msgstr "个人资料"
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Logout"
+msgstr "注销"
+
+#: yanse-child/template/page/page-login.php:40
+msgid "Username"
+msgstr "用户名"
+
+#: yanse-child/template/page/page-login.php:43
+msgid "Password"
+msgstr "密码"
+
+#: yanse-child/template/page/page-login.php:46
+msgid "Remember Me"
+msgstr "记住我"
+
+#: yanse-child/template/page/page-login.php:50
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: yanse-child/template/page/page-login.php:54
+msgid "Log In"
+msgstr "登录"
+
+#: yanse-child/template/page/page-login.php:65
+#: yanse-child/template/page/page-page.php:19
+#: yanse-child/template/post/post-aside.php:25
+#: yanse-child/template/post/post-audio.php:25
+#: yanse-child/template/post/post-chat.php:25
+#: yanse-child/template/post/post-gallery.php:25
+#: yanse-child/template/post/post-image.php:25
+#: yanse-child/template/post/post-link.php:23
+#: yanse-child/template/post/post-quote.php:24
+#: yanse-child/template/post/post-single.php:22
+#: yanse-child/template/post/post-status.php:25
+#: yanse-child/template/post/post-video.php:25 yanse/content-single.php:22
+msgid "Pages:"
+msgstr "页面："
+
+#: yanse-child/template/page/page-sitemap.php:33
+msgid "Pages"
+msgstr "页面"
+
+#: yanse-child/template/page/page-sitemap.php:42
+msgid "Works"
+msgstr "工作"
+
+#: yanse-child/template/page/page-sitemap.php:58
+msgid "Blog"
+msgstr "博客"
+
+#: yanse/404.php:10
+msgid "File Not Found"
+msgstr "文件未找到"
+
+#: yanse/404.php:16 yanse/index.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看来我们无法找到您所需要的东西。 也许搜索可以帮助。"
+
+#: yanse/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "每日档案：%s"
+
+#: yanse/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "每月档案：%s"
+
+#: yanse/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年度档案：%s"
+
+#: yanse/archive.php:19
+msgid "Archives"
+msgstr "档案"
+
+#: yanse/archive.php:39
+msgid "&larr; Older posts"
+msgstr "＆larr; 以前的帖子"
+
+#: yanse/archive.php:40
+msgid "Newer posts &rarr;"
+msgstr "较新的帖子＆rarr;"
+
+#: yanse/comments.php:8
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: yanse/comments.php:9
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: yanse/comments.php:10
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: yanse/comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: yanse/comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接加载此页。谢谢!"
+
+#: yanse/comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章受密码保护。 请输入密码以查看评论。"
+
+#: yanse/comments.php:46
+msgid "No Responses to"
+msgstr "无评论"
+
+#: yanse/comments.php:46
+msgid "One Response to"
+msgstr "一个回复"
+
+#: yanse/comments.php:46
+msgid "% Responses to"
+msgstr "% 条评论"
+
+#: yanse/comments.php:53
+msgid "&larr; Older comments"
+msgstr "＆larr; 较早的评论"
+
+#: yanse/comments.php:54
+msgid "Newer comments &rarr;"
+msgstr "更新的评论＆rarr;"
+
+#: yanse/comments.php:63
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: yanse/comments.php:70
+msgid "Leave a Reply"
+msgstr "发表评论"
+
+#: yanse/comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复给 %s"
+
+#: yanse/comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您必须<a href=\"%s\">登录</a>才能发表评论。"
+
+#: yanse/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "以 <a href=\"%s/wp-admin/profile.php\">%s</a>身份登录 ."
+
+#: yanse/comments.php:77
+msgid "Log out of this account"
+msgstr "注销此帐户"
+
+#: yanse/comments.php:77
+msgid "Log out &raquo;"
+msgstr "注销 &raquo;"
+
+#: yanse/comments.php:80
+msgid "Name"
+msgstr "名称"
+
+#: yanse/comments.php:80 yanse/comments.php:84
+msgid " (required)"
+msgstr "（必需）"
+
+#: yanse/comments.php:84
+msgid "Email (will not be published)"
+msgstr "电子邮件（将不会公布）"
+
+#: yanse/comments.php:88
+msgid "Website"
+msgstr "网站"
+
+#: yanse/comments.php:93
+msgid "Comment"
+msgstr "评论"
+
+#: yanse/comments.php:96
+msgid "You can use these tags:"
+msgstr "您可以使用这些标签:"
+
+#: yanse/functions.php:98
+msgid "Written by"
+msgstr "作者"
+
+#: yanse/index.php:41
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: yanse/lib/menu.php:13
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: yanse/lib/menu.php:14
+msgid "Additional Navigation"
+msgstr "额外导航"
+
+#: yanse/lib/menu.php:15
+msgid "Footer Navigation"
+msgstr "页脚导航"
+
+#: yanse/search.php:8
+msgid "Search Results for"
+msgstr "搜索结果"
+
+#: yanse/search.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有匹配您的搜索条件。请用一些不同的关键字再试一次。"
+
+#~ msgid "Email"
+#~ msgstr "邮箱"
+
+#~ msgid "Message"
+#~ msgstr "信息"
+
+#~ msgid "Send message"
+#~ msgstr "发送消息"

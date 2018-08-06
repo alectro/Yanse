@@ -1,0 +1,965 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Yanse\n"
+"POT-Creation-Date: 2018-08-06 15:15+0800\n"
+"PO-Revision-Date: 2016-04-12 22:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: Ale Urrutia <alectro@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: _e;_;__;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: foundation\n"
+"X-Poedit-SearchPathExcluded-1: dev\n"
+"X-Poedit-SearchPathExcluded-2: foundation\n"
+"X-Poedit-SearchPathExcluded-3: config.codekit3\n"
+"X-Poedit-SearchPathExcluded-4: humans.txt\n"
+"X-Poedit-SearchPathExcluded-5: README.md\n"
+"X-Poedit-SearchPathExcluded-6: robots.txt\n"
+
+#: 404.php:10
+msgid "File Not Found"
+msgstr ""
+
+#: 404.php:16 index.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+msgid "Archives"
+msgstr ""
+
+#: archive.php:39
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive.php:40
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: comments.php:8
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comments.php:9
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:10
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:46
+msgid "No Responses to"
+msgstr ""
+
+#: comments.php:46
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:46
+msgid "% Responses to"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:77
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:80
+msgid "Name"
+msgstr ""
+
+#: comments.php:80 comments.php:84
+msgid " (required)"
+msgstr ""
+
+#: comments.php:84
+msgid "Email (will not be published)"
+msgstr ""
+
+#: comments.php:88
+msgid "Website"
+msgstr ""
+
+#: comments.php:93
+msgid "Comment"
+msgstr ""
+
+#: comments.php:96
+msgid "You can use these tags:"
+msgstr ""
+
+#: content-single.php:22 template/page/page-login.php:65
+#: template/page/page-page.php:19 template/post/post-aside.php:25
+#: template/post/post-audio.php:25 template/post/post-chat.php:25
+#: template/post/post-gallery.php:25 template/post/post-image.php:25
+#: template/post/post-link.php:23 template/post/post-quote.php:24
+#: template/post/post-single.php:22 template/post/post-status.php:25
+#: template/post/post-video.php:25
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:27
+#, php-format
+msgid "Subscribe to %s feed"
+msgstr ""
+
+#: footer.php:36
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr ""
+
+#: footer.php:45
+#, php-format
+msgid "Follow %s on Facebook"
+msgstr ""
+
+#: footer.php:54
+#, php-format
+msgid "Follow %s on Google+"
+msgstr ""
+
+#: footer.php:63
+#, php-format
+msgid "Friend %s on WeChat"
+msgstr ""
+
+#: footer.php:71
+#, php-format
+msgid "Follow %s on Weibo"
+msgstr ""
+
+#: footer.php:80
+#, php-format
+msgid "Follow %s on Douban"
+msgstr ""
+
+#: footer.php:89
+#, php-format
+msgid "Subscribe to %s on MailChimp"
+msgstr ""
+
+#: footer.php:98
+#, php-format
+msgid "Connect with %s on LinkedIn"
+msgstr ""
+
+#: footer.php:107
+#, php-format
+msgid "Connect with %s on WordPress"
+msgstr ""
+
+#: footer.php:116
+#, php-format
+msgid "Connect with %s on Medium"
+msgstr ""
+
+#: footer.php:125
+#, php-format
+msgid "Follow %s on Behance"
+msgstr ""
+
+#: footer.php:135
+#, php-format
+msgid "Follow %s on Dribbble"
+msgstr ""
+
+#: footer.php:144
+#, php-format
+msgid "%s profile on Designer News"
+msgstr ""
+
+#: footer.php:153
+#, php-format
+msgid "Follow %s on Pinterest"
+msgstr ""
+
+#: footer.php:162
+#, php-format
+msgid "Follow %s on Instagram"
+msgstr ""
+
+#: footer.php:171
+#, php-format
+msgid "Follow %s on Flickr"
+msgstr ""
+
+#: footer.php:180
+#, php-format
+msgid "Follow %s on 500px"
+msgstr ""
+
+#: footer.php:189
+#, php-format
+msgid "Follow %s on Github"
+msgstr ""
+
+#: footer.php:198
+#, php-format
+msgid "Follow %s on Bitbucket"
+msgstr ""
+
+#: footer.php:207
+#, php-format
+msgid "Follow %s on StackOverflow"
+msgstr ""
+
+#: footer.php:216
+#, php-format
+msgid "Follow %s on Youtube"
+msgstr ""
+
+#: footer.php:225
+#, php-format
+msgid "Follow %s on Vimeo"
+msgstr ""
+
+#: footer.php:234
+#, php-format
+msgid "Follow %s on Youku"
+msgstr ""
+
+#: footer.php:243
+#, php-format
+msgid "Follow %s on Spotify"
+msgstr ""
+
+#: footer.php:252
+#, php-format
+msgid "Follow %s on Last.fm"
+msgstr ""
+
+#: footer.php:261
+#, php-format
+msgid "Follow %s on SoundCloud"
+msgstr ""
+
+#: index.php:41
+msgid "Nothing Found"
+msgstr ""
+
+#: lib/breadcrumbs.php:12
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumbs.php:13
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: lib/breadcrumbs.php:14
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: lib/breadcrumbs.php:15
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: lib/breadcrumbs.php:16
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: lib/breadcrumbs.php:17
+msgid "Error 404"
+msgstr ""
+
+#: lib/breadcrumbs.php:18
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/breadcrumbs.php:19
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: lib/custom-dashboard.php:38
+msgid "Dashboard"
+msgstr ""
+
+#: lib/custom-dashboard.php:40 lib/metaboxes/inc/fields/file.php:163
+#: lib/metaboxes/inc/fields/media.php:28
+msgid "Edit"
+msgstr ""
+
+#: lib/custom-post-types.php:17 template/page/page-sitemap.php:42
+msgid "Works"
+msgstr ""
+
+#: lib/custom-post-types.php:18 lib/custom-post-types.php:19
+msgid "Work"
+msgstr ""
+
+#: lib/custom-post-types.php:20
+msgid "Parent Work:"
+msgstr ""
+
+#: lib/custom-post-types.php:21
+msgid "All Works"
+msgstr ""
+
+#: lib/custom-post-types.php:22
+msgid "View Work"
+msgstr ""
+
+#: lib/custom-post-types.php:23
+msgid "Add New Work"
+msgstr ""
+
+#: lib/custom-post-types.php:24
+msgid "New Work"
+msgstr ""
+
+#: lib/custom-post-types.php:25
+msgid "Edit Work"
+msgstr ""
+
+#: lib/custom-post-types.php:26
+msgid "Update Work"
+msgstr ""
+
+#: lib/custom-post-types.php:27
+msgid "Search works"
+msgstr ""
+
+#: lib/custom-post-types.php:28
+msgid "No works found"
+msgstr ""
+
+#: lib/custom-post-types.php:29
+msgid "No works found in Trash"
+msgstr ""
+
+#: lib/custom-post-types.php:32
+msgid "work"
+msgstr ""
+
+#: lib/custom-post-types.php:33
+msgid "Work information pages"
+msgstr ""
+
+#: lib/custom-post-types.php:70
+msgid "Careers"
+msgstr ""
+
+#: lib/custom-post-types.php:71 lib/custom-post-types.php:72
+msgid "Career"
+msgstr ""
+
+#: lib/custom-post-types.php:73
+msgid "Parent Career:"
+msgstr ""
+
+#: lib/custom-post-types.php:74
+msgid "All Careers"
+msgstr ""
+
+#: lib/custom-post-types.php:75
+msgid "View Career"
+msgstr ""
+
+#: lib/custom-post-types.php:76
+msgid "Add New Career"
+msgstr ""
+
+#: lib/custom-post-types.php:77
+msgid "New Career"
+msgstr ""
+
+#: lib/custom-post-types.php:78
+msgid "Edit Career"
+msgstr ""
+
+#: lib/custom-post-types.php:79
+msgid "Update Career"
+msgstr ""
+
+#: lib/custom-post-types.php:80
+msgid "Search careers"
+msgstr ""
+
+#: lib/custom-post-types.php:81
+msgid "No careers found"
+msgstr ""
+
+#: lib/custom-post-types.php:82
+msgid "No careers found in Trash"
+msgstr ""
+
+#: lib/custom-post-types.php:85
+msgid "career"
+msgstr ""
+
+#: lib/custom-post-types.php:86
+msgid "Carrer information pages"
+msgstr ""
+
+#: lib/menu.php:13
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/menu.php:14
+msgid "Additional Navigation"
+msgstr ""
+
+#: lib/menu.php:15
+msgid "Footer Navigation"
+msgstr ""
+
+#: lib/metaboxes.php:83
+msgid "Beijing"
+msgstr ""
+
+#: lib/metaboxes.php:84
+msgid "China"
+msgstr ""
+
+#: lib/metaboxes.php:85
+msgid "Uruguay"
+msgstr ""
+
+#: lib/metaboxes.php:86
+msgid "Anywhere"
+msgstr ""
+
+#: lib/metaboxes.php:95
+msgid "Full-time"
+msgstr ""
+
+#: lib/metaboxes.php:96
+msgid "Part-time"
+msgstr ""
+
+#: lib/metaboxes.php:97
+msgid "Freelance"
+msgstr ""
+
+#: lib/metaboxes.php:106
+msgid "Chinese"
+msgstr ""
+
+#: lib/metaboxes.php:107
+msgid "English"
+msgstr ""
+
+#: lib/metaboxes.php:108
+msgid "Spanish"
+msgstr ""
+
+#: lib/metaboxes.php:109
+msgid "Portuguese"
+msgstr ""
+
+#: lib/metaboxes.php:119
+msgid "Undergraduate"
+msgstr ""
+
+#: lib/metaboxes.php:120
+msgid "College"
+msgstr ""
+
+#: lib/metaboxes.php:121
+msgid "Postgraduate"
+msgstr ""
+
+#: lib/metaboxes.php:122
+msgid "Others"
+msgstr ""
+
+#: lib/metaboxes.php:173
+msgid "Work details"
+msgstr ""
+
+#: lib/metaboxes.php:174
+msgid "Some additional information about this project."
+msgstr ""
+
+#: lib/metaboxes.php:185
+msgid "Project's nature"
+msgstr ""
+
+#: lib/metaboxes.php:190 lib/metaboxes.php:211
+msgid "Client"
+msgstr ""
+
+#: lib/metaboxes.php:191
+msgid "Pro bono"
+msgstr ""
+
+#: lib/metaboxes.php:192
+msgid "Personal"
+msgstr ""
+
+#: lib/metaboxes.php:197
+msgid "Whether is a client's or a personal project."
+msgstr ""
+
+#: lib/metaboxes.php:229
+msgid "Country"
+msgstr ""
+
+#: lib/metaboxes.php:247
+msgid "Year of creation"
+msgstr ""
+
+#: lib/metaboxes.php:253
+msgid "yy"
+msgstr ""
+
+#: lib/metaboxes.php:268
+msgid "Color picker"
+msgstr ""
+
+#: lib/metaboxes/inc/core.php:40
+msgid "Documentation"
+msgstr ""
+
+#: lib/metaboxes/inc/core.php:41
+msgid "Extensions"
+msgstr ""
+
+#: lib/metaboxes/inc/field.php:192
+msgid "+ Add more"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/autocomplete.php:23
+#: lib/metaboxes/inc/fields/autocomplete.php:87
+#: lib/metaboxes/inc/fields/autocomplete.php:104
+#: lib/metaboxes/inc/fields/file.php:162
+msgid "Delete"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/button.php:29
+msgid "Click me"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/checkbox.php:82
+msgid "Yes"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/checkbox.php:82
+msgid "No"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file-input.php:49
+#: lib/metaboxes/inc/fields/select.php:91
+msgid "Select"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file-input.php:51
+#: lib/metaboxes/inc/fields/media.php:27
+#: lib/options/includes/class-options-media-uploader.php:67
+#: lib/options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file.php:98
+msgid "Upload Files"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/file.php:99
+msgid "+ Add new file"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:24
+msgid "+ Add Media"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:25
+msgid " file"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:26
+msgid " files"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:29
+msgid "View"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:30
+msgid "No Title"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:33
+msgid "Select Files"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/media.php:34
+msgid "Drop files here to upload"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr ""
+
+#: lib/metaboxes/inc/fields/post.php:34
+msgid "Select a post"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/post.php:38
+#: lib/metaboxes/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/select.php:91
+msgid "All"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/select.php:91
+msgid "None"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/thickbox-image.php:53
+msgid "Upload Images"
+msgstr ""
+
+#: lib/metaboxes/inc/fields/user.php:34
+msgid "Select an user"
+msgstr ""
+
+#: lib/metaboxes/inc/validation.php:49
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: lib/options/includes/class-options-framework-admin.php:91
+#: lib/options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: lib/options/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: lib/options/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: lib/options/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr ""
+
+#: lib/options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: lib/options/includes/class-options-media-uploader.php:65
+#: lib/options/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: lib/options/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: lib/options/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: lib/options/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr ""
+
+#: lib/pagination.php:43
+msgid "Previous"
+msgstr ""
+
+#: lib/pagination.php:44
+msgid "Next"
+msgstr ""
+
+#: lib/theme-support.php:22
+msgid "READ MORE"
+msgstr ""
+
+#: lib/theme-support.php:121
+msgid "Written by"
+msgstr ""
+
+#: search.php:8
+msgid "Search Results for"
+msgstr ""
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:27
+msgid "Job ID: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:31
+msgid "Date: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:37
+msgid "Location: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:46
+msgid "Period: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:57
+msgid "Type: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:72
+msgid "Languages: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:72
+#: template/cpt/cpt-careers-single.php:84 template/cpt/cpt-works-single.php:49
+#: template/cpt/cpt-works-single.php:59
+msgid ", "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:84
+msgid "Education Level: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:93
+msgid "Open Positions: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:99
+msgid "<h3>Job Description:</h3> "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:115
+msgid "Requirements:"
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:126
+msgid "Skills: "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:134
+msgid "Apply for "
+msgstr ""
+
+#: template/cpt/cpt-careers-single.php:135
+#: template/cpt/cpt-careers-single.php:146
+msgid "Apply"
+msgstr ""
+
+#: template/cpt/page-careers.php:43
+msgid "Open positions"
+msgstr ""
+
+#: template/page/page-login.php:28
+msgid "Welcome "
+msgstr ""
+
+#: template/page/page-login.php:28
+msgid "Profile"
+msgstr ""
+
+#: template/page/page-login.php:28
+msgid "Logout"
+msgstr ""
+
+#: template/page/page-login.php:40
+msgid "Username"
+msgstr ""
+
+#: template/page/page-login.php:43
+msgid "Password"
+msgstr ""
+
+#: template/page/page-login.php:46
+msgid "Remember Me"
+msgstr ""
+
+#: template/page/page-login.php:50
+msgid "Lost your password?"
+msgstr ""
+
+#: template/page/page-login.php:54
+msgid "Log In"
+msgstr ""
+
+#: template/page/page-sitemap.php:33
+msgid "Pages"
+msgstr ""
+
+#: template/page/page-sitemap.php:58
+msgid "Blog"
+msgstr ""

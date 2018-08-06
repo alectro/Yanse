@@ -1,0 +1,953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yanse\n"
+"POT-Creation-Date: 2018-07-30 00:02+0800\n"
+"PO-Revision-Date: 2018-07-30 00:19+0800\n"
+"Last-Translator: Alejandro Urrutia <alectro@gmail.com>\n"
+"Language-Team: Ale Urrutia <alectro@gmail.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: yanse\n"
+"X-Poedit-SearchPath-1: yanse-child\n"
+"X-Poedit-SearchPathExcluded-0: yanse/foundation\n"
+
+#: yanse-child/footer.php:27
+#, fuzzy, php-format
+msgid "Subscribe to %s feed"
+msgstr "%s-Feed abonnieren"
+
+#: yanse-child/footer.php:36
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "Folge %s bei Twitter"
+
+#: yanse-child/footer.php:45
+#, fuzzy, php-format
+msgid "Follow %s on Facebook"
+msgstr "Folgen Sie %s auf Facebook"
+
+#: yanse-child/footer.php:54
+#, fuzzy, php-format
+msgid "Follow %s on Google+"
+msgstr "Folgen Sie %s auf Google+"
+
+#: yanse-child/footer.php:63
+#, fuzzy, php-format
+msgid "Friend %s on WeChat"
+msgstr "Freund %s auf WeChat"
+
+#: yanse-child/footer.php:71
+#, fuzzy, php-format
+msgid "Follow %s on Weibo"
+msgstr "Folgen Sie %s auf Weibo"
+
+#: yanse-child/footer.php:80
+#, fuzzy, php-format
+msgid "Follow %s on Douban"
+msgstr "Folgen Sie %s auf Douban"
+
+#: yanse-child/footer.php:89
+#, fuzzy, php-format
+msgid "Subscribe to %s on MailChimp"
+msgstr "%s auf MailChimp abonnieren"
+
+#: yanse-child/footer.php:98
+#, php-format
+msgid "Connect with %s on LinkedIn"
+msgstr "Auf LinkedIn mit %s verbinden"
+
+#: yanse-child/footer.php:107
+#, fuzzy, php-format
+msgid "Connect with %s on WordPress"
+msgstr "Mit %s auf WordPress verbinden"
+
+#: yanse-child/footer.php:116
+#, fuzzy, php-format
+msgid "Connect with %s on Medium"
+msgstr "Verbinden mit %s auf Medium"
+
+#: yanse-child/footer.php:125
+#, fuzzy, php-format
+msgid "Follow %s on Behance"
+msgstr "Folgen Sie %s auf Behance"
+
+#: yanse-child/footer.php:135
+#, php-format
+msgid "Follow %s on Dribbble"
+msgstr "Folge %s auf Dribbble"
+
+#: yanse-child/footer.php:144
+#, fuzzy, php-format
+msgid "%s profile on Designer News"
+msgstr "%s Profil auf Designer News"
+
+#: yanse-child/footer.php:153
+#, fuzzy, php-format
+msgid "Follow %s on Pinterest"
+msgstr "Folgen Sie %s auf Pinterest"
+
+#: yanse-child/footer.php:162
+#, fuzzy, php-format
+msgid "Follow %s on Instagram"
+msgstr "Folgen Sie %s auf Instagram"
+
+#: yanse-child/footer.php:171
+#, php-format
+msgid "Follow %s on Flickr"
+msgstr "Folgen Sie %s auf Flickr"
+
+#: yanse-child/footer.php:180
+#, fuzzy, php-format
+msgid "Follow %s on 500px"
+msgstr "Folge %s auf 500px"
+
+#: yanse-child/footer.php:189
+#, fuzzy, php-format
+msgid "Follow %s on Github"
+msgstr "Folgen Sie %s auf Github"
+
+#: yanse-child/footer.php:198
+#, fuzzy, php-format
+msgid "Follow %s on Bitbucket"
+msgstr "Folge %s auf Bitbucket"
+
+#: yanse-child/footer.php:207
+#, fuzzy, php-format
+msgid "Follow %s on StackOverflow"
+msgstr "Folgen Sie %s auf StackOverflow"
+
+#: yanse-child/footer.php:216
+#, fuzzy, php-format
+msgid "Follow %s on Youtube"
+msgstr "Folgen Sie %s auf Youtube"
+
+#: yanse-child/footer.php:225
+#, fuzzy, php-format
+msgid "Follow %s on Vimeo"
+msgstr "Folgen Sie %s auf Vimeo"
+
+#: yanse-child/footer.php:234
+#, fuzzy, php-format
+msgid "Follow %s on Youku"
+msgstr "Folgen Sie %s auf Youku"
+
+#: yanse-child/footer.php:243
+#, fuzzy, php-format
+msgid "Follow %s on Spotify"
+msgstr "Folgen Sie %s auf Spotify"
+
+#: yanse-child/footer.php:252
+#, fuzzy, php-format
+msgid "Follow %s on Last.fm"
+msgstr "Folgen Sie %s auf Last.fm"
+
+#: yanse-child/footer.php:261
+#, fuzzy, php-format
+msgid "Follow %s on SoundCloud"
+msgstr "Folgen Sie %s auf SoundCloud"
+
+#: yanse-child/lib/breadcrumbs.php:12
+msgid "Home"
+msgstr "Startseite"
+
+#: yanse-child/lib/breadcrumbs.php:13
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archiv nach Kategorie \"%s\""
+
+#: yanse-child/lib/breadcrumbs.php:14
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Suchergebnisse für \"%s\" Query"
+
+#: yanse-child/lib/breadcrumbs.php:15
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Beiträge mit Schlagwort \"%s\""
+
+#: yanse-child/lib/breadcrumbs.php:16
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artikel gepostet von %s"
+
+#: yanse-child/lib/breadcrumbs.php:17
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: yanse-child/lib/breadcrumbs.php:18
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: yanse-child/lib/breadcrumbs.php:19
+#, php-format
+msgid "Comment Page %s"
+msgstr "Kommentarseite %s"
+
+#: yanse-child/lib/custom-post-types.php:19
+msgid "Work"
+msgstr "Arbeit"
+
+#: yanse-child/lib/custom-post-types.php:20
+#, fuzzy
+msgid "Parent Work:"
+msgstr "Parent Projekt"
+
+#: yanse-child/lib/custom-post-types.php:21
+msgid "All Works"
+msgstr "Alle Projekte"
+
+#: yanse-child/lib/custom-post-types.php:22
+msgid "View Work"
+msgstr "Projekte anzeigen"
+
+#: yanse-child/lib/custom-post-types.php:23
+msgid "Add New Work"
+msgstr "Neues Projekt erstellen"
+
+#: yanse-child/lib/custom-post-types.php:24
+msgid "New Work"
+msgstr "Neues Projekt"
+
+#: yanse-child/lib/custom-post-types.php:25
+msgid "Edit Work"
+msgstr "Projekt bearbeiten"
+
+#: yanse-child/lib/custom-post-types.php:26
+#, fuzzy
+msgid "Update Work"
+msgstr "Update-Arbeit"
+
+#: yanse-child/lib/custom-post-types.php:27
+#, fuzzy
+#| msgid "Search Results for"
+msgid "Search works"
+msgstr "Projekte suchen"
+
+#: yanse-child/lib/custom-post-types.php:28
+msgid "No works found"
+msgstr "Keine Startartikel gefunden"
+
+#: yanse-child/lib/custom-post-types.php:29
+#, fuzzy
+msgid "No works found in Trash"
+msgstr "Keine Referenzen im Papierkorb."
+
+#: yanse-child/lib/custom-post-types.php:32
+msgid "work"
+msgstr ".."
+
+#: yanse-child/lib/custom-post-types.php:33
+#, fuzzy
+msgid "Work information pages"
+msgstr "Arbeitsinformationsseiten"
+
+#: yanse-child/lib/custom-post-types.php:72
+msgid "Career"
+msgstr "Werdegang"
+
+#: yanse-child/lib/custom-post-types.php:73
+#, fuzzy
+msgid "Parent Career:"
+msgstr "Eltern-Karriere:"
+
+#: yanse-child/lib/custom-post-types.php:74
+#, fuzzy
+msgid "All Careers"
+msgstr "Alle Karrieren"
+
+#: yanse-child/lib/custom-post-types.php:75
+msgid "View Career"
+msgstr "Karriere ansehen"
+
+#: yanse-child/lib/custom-post-types.php:76
+#, fuzzy
+msgid "Add New Career"
+msgstr "Neue Karriere hinzufügen"
+
+#: yanse-child/lib/custom-post-types.php:77
+#, fuzzy
+msgid "New Career"
+msgstr "NOWA KARIERA"
+
+#: yanse-child/lib/custom-post-types.php:78
+msgid "Edit Career"
+msgstr "Karriere bearbeiten"
+
+#: yanse-child/lib/custom-post-types.php:79
+#, fuzzy
+msgid "Update Career"
+msgstr "Karriere aktualisieren"
+
+#: yanse-child/lib/custom-post-types.php:80
+#, fuzzy
+msgid "Search careers"
+msgstr "Karrieren suchen"
+
+#: yanse-child/lib/custom-post-types.php:81
+#, fuzzy
+msgid "No careers found"
+msgstr "Keine Karrieren gefunden"
+
+#: yanse-child/lib/custom-post-types.php:82
+#, fuzzy
+msgid "No careers found in Trash"
+msgstr "Keine Karriere in Trash gefunden"
+
+#: yanse-child/lib/custom-post-types.php:85
+msgid "career"
+msgstr "Karriere"
+
+#: yanse-child/lib/custom-post-types.php:86
+#, fuzzy
+msgid "Carrer information pages"
+msgstr "Karriere-Informationsseiten"
+
+#: yanse-child/lib/metaboxes.php:83
+msgid "Beijing"
+msgstr "Peking"
+
+#: yanse-child/lib/metaboxes.php:84
+msgid "China"
+msgstr "China"
+
+#: yanse-child/lib/metaboxes.php:85
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: yanse-child/lib/metaboxes.php:86
+msgid "Anywhere"
+msgstr "Überall"
+
+#: yanse-child/lib/metaboxes.php:95
+msgid "Full-time"
+msgstr "Ganztägig"
+
+#: yanse-child/lib/metaboxes.php:96
+msgid "Part-time"
+msgstr "Teilzeit"
+
+#: yanse-child/lib/metaboxes.php:97
+msgid "Freelance"
+msgstr "Ehrenamtlich"
+
+#: yanse-child/lib/metaboxes.php:106
+msgid "Chinese"
+msgstr "Chinesisch"
+
+#: yanse-child/lib/metaboxes.php:107
+msgid "English"
+msgstr "Englisch"
+
+#: yanse-child/lib/metaboxes.php:108
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: yanse-child/lib/metaboxes.php:109
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+#: yanse-child/lib/metaboxes.php:119
+msgid "Undergraduate"
+msgstr "Grundstudium"
+
+#: yanse-child/lib/metaboxes.php:120
+msgid "College"
+msgstr "Hochschul-"
+
+#: yanse-child/lib/metaboxes.php:121
+msgid "Postgraduate"
+msgstr "Postgraduales Studium"
+
+#: yanse-child/lib/metaboxes.php:122
+msgid "Others"
+msgstr "Andere"
+
+#: yanse-child/lib/metaboxes.php:173
+msgid "Work details"
+msgstr "Werk Details"
+
+#: yanse-child/lib/metaboxes.php:174
+#, fuzzy
+msgid "Some additional information about this project."
+msgstr "Einige zusätzliche Informationen zu diesem Projekt."
+
+#: yanse-child/lib/metaboxes.php:185
+#, fuzzy
+msgid "Project's nature"
+msgstr "Die Natur des Projekts"
+
+#: yanse-child/lib/metaboxes.php:190 yanse-child/lib/metaboxes.php:211
+msgid "Client"
+msgstr "Kunde"
+
+#: yanse-child/lib/metaboxes.php:191
+msgid "Pro bono"
+msgstr "Pro bono"
+
+#: yanse-child/lib/metaboxes.php:192
+msgid "Personal"
+msgstr "Personal"
+
+#: yanse-child/lib/metaboxes.php:197
+#, fuzzy
+msgid "Whether is a client's or a personal project."
+msgstr "Ob es sich um ein Kunden- oder ein persönliches Projekt handelt."
+
+#: yanse-child/lib/metaboxes.php:229
+msgid "Country"
+msgstr "Land"
+
+#: yanse-child/lib/metaboxes.php:247
+msgid "Year of creation"
+msgstr "Gründungsjahr"
+
+#: yanse-child/lib/metaboxes.php:253
+#, fuzzy
+msgid "yy"
+msgstr "yy"
+
+#: yanse-child/lib/metaboxes.php:268
+msgid "Color picker"
+msgstr "Farbauswahl"
+
+#: yanse-child/lib/metaboxes/inc/core.php:40
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: yanse-child/lib/metaboxes/inc/core.php:41
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+#: yanse-child/lib/metaboxes/inc/field.php:192
+msgid "+ Add more"
+msgstr "+ Hinzufügen"
+
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:23
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:87
+#: yanse-child/lib/metaboxes/inc/fields/autocomplete.php:104
+msgid "Delete"
+msgstr "Löschen"
+
+#: yanse-child/lib/metaboxes/inc/fields/button.php:29
+msgid "Click me"
+msgstr "Klick mich"
+
+#: yanse-child/lib/metaboxes/inc/fields/checkbox.php:82
+msgid "Yes"
+msgstr "Ja"
+
+#: yanse-child/lib/metaboxes/inc/fields/checkbox.php:82
+msgid "No"
+msgstr "Nein"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr "Datei auswählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:49
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "Select"
+msgstr "Auswählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/file-input.php:51
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:67
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Entfernen"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr "Du kannst nur maximal %d Datei hochladen"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr "Sie können nur maximal %d Datei(en) hochladen"
+
+#: yanse-child/lib/metaboxes/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr "Fehler: Datei kann nicht gelöscht werden"
+
+#: yanse-child/lib/metaboxes/inc/fields/map.php:49
+msgid "Find Address"
+msgstr "Adresse finden"
+
+#: yanse-child/lib/metaboxes/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr "HTML ist nicht verfügbar."
+
+#: yanse-child/lib/metaboxes/inc/fields/post.php:34
+msgid "Select a post"
+msgstr "Beitrag auswählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/post.php:38
+#: yanse-child/lib/metaboxes/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr "Einen %s Auswählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr "Element auswählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "All"
+msgstr "Alle"
+
+#: yanse-child/lib/metaboxes/inc/fields/select.php:91
+msgid "None"
+msgstr "Keine"
+
+#: yanse-child/lib/metaboxes/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr "Begriff wählen"
+
+#: yanse-child/lib/metaboxes/inc/fields/user.php:34
+msgid "Select an user"
+msgstr "Benutzer wählen"
+
+#: yanse-child/lib/metaboxes/inc/validation.php:49
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Bitte behebe den unten angeführten Fehler und versuche es erneut."
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:91
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Zum Zurücksetzen auf OK klicken. Alle Einstellungen gehen verloren!"
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr "Standardoptionen wiederhergestellt."
+
+#: yanse-child/lib/options/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr "Optionen gespeichert."
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Keine Datei ausgewählt"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:65
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr "Hochladen"
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+"Aktualisiere deine Version von WordPress um volle Medien-Unterstützung zu "
+"erhalten."
+
+#: yanse-child/lib/options/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr "Datei ansehen"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Horizontal wiederholen"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Vertikal wiederholen"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Alle wiederholen"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Oben links"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Oben zentriert"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Mitte links"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Mitte zentriert"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Mitte rechts"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Unten zentriert"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Normal scrollen"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "An dieser Stelle fixieren"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Kursiv"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Fett"
+
+#: yanse-child/lib/options/includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Fett kursiv"
+
+#: yanse-child/lib/pagination.php:43
+msgid "Previous"
+msgstr "Zurück"
+
+#: yanse-child/lib/pagination.php:44
+msgid "Next"
+msgstr "Weiter"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:27
+#, fuzzy
+msgid "Job ID: "
+msgstr "Job-ID"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:31
+msgid "Date: "
+msgstr "Datum: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:37
+msgid "Location: "
+msgstr "Ort:"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:46
+msgid "Period: "
+msgstr "Zeitraum: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:57
+msgid "Type: "
+msgstr "Typ: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:72
+msgid "Languages: "
+msgstr "Sprachen: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:72
+#: yanse-child/template/cpt/cpt-careers-single.php:84
+#: yanse-child/template/cpt/cpt-works-single.php:49
+#: yanse-child/template/cpt/cpt-works-single.php:59
+msgid ", "
+msgstr ", "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:84
+#, fuzzy
+msgid "Education Level: "
+msgstr "Ausbildungsstand"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:93
+#, fuzzy
+msgid "Open Positions: "
+msgstr "Offene Stellen"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:99
+#, fuzzy
+msgid "<h3>Job Description:</h3> "
+msgstr "Stellenbeschreibung:"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:115
+msgid "Requirements:"
+msgstr "Anforderungen:"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:126
+msgid "Skills: "
+msgstr "Fähigkeiten: "
+
+#: yanse-child/template/cpt/cpt-careers-single.php:134
+#, fuzzy
+msgid "Apply for "
+msgstr "Beantragen"
+
+#: yanse-child/template/cpt/cpt-careers-single.php:135
+#: yanse-child/template/cpt/cpt-careers-single.php:146
+msgid "Apply"
+msgstr "Anwenden"
+
+#: yanse-child/template/cpt/page-careers.php:43
+msgid "Open positions"
+msgstr "Offene Stellen"
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Welcome "
+msgstr "Willkommen "
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Profile"
+msgstr "Profil"
+
+#: yanse-child/template/page/page-login.php:28
+msgid "Logout"
+msgstr "Abmelden"
+
+#: yanse-child/template/page/page-login.php:40
+msgid "Username"
+msgstr "Benutzername"
+
+#: yanse-child/template/page/page-login.php:43
+msgid "Password"
+msgstr "Passwort"
+
+#: yanse-child/template/page/page-login.php:46
+msgid "Remember Me"
+msgstr "Angemeldet bleiben"
+
+#: yanse-child/template/page/page-login.php:50
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: yanse-child/template/page/page-login.php:54
+msgid "Log In"
+msgstr "Anmelden"
+
+#: yanse-child/template/page/page-login.php:65
+#: yanse-child/template/page/page-page.php:19
+#: yanse-child/template/post/post-aside.php:25
+#: yanse-child/template/post/post-audio.php:25
+#: yanse-child/template/post/post-chat.php:25
+#: yanse-child/template/post/post-gallery.php:25
+#: yanse-child/template/post/post-image.php:25
+#: yanse-child/template/post/post-link.php:23
+#: yanse-child/template/post/post-quote.php:24
+#: yanse-child/template/post/post-single.php:22
+#: yanse-child/template/post/post-status.php:25
+#: yanse-child/template/post/post-video.php:25 yanse/content-single.php:22
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: yanse-child/template/page/page-sitemap.php:33
+msgid "Pages"
+msgstr "Seiten"
+
+#: yanse-child/template/page/page-sitemap.php:42
+msgid "Works"
+msgstr "Projekte"
+
+#: yanse-child/template/page/page-sitemap.php:58
+msgid "Blog"
+msgstr "Blog"
+
+#: yanse/404.php:10
+msgid "File Not Found"
+msgstr "Seite nicht gefunden"
+
+#: yanse/404.php:16 yanse/index.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, dass wir nicht finden können, was du suchst. Vielleicht kann die "
+"Suche helfen."
+
+#: yanse/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Tagesarchiv: %s"
+
+#: yanse/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatsarchiv: %s"
+
+#: yanse/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jahresarchiv: %s"
+
+#: yanse/archive.php:19
+msgid "Archives"
+msgstr "Archive"
+
+#: yanse/archive.php:39
+msgid "&larr; Older posts"
+msgstr "&larr; Ältere Beiträge"
+
+#: yanse/archive.php:40
+msgid "Newer posts &rarr;"
+msgstr "Neuere Beiträge &rarr;"
+
+#: yanse/comments.php:8
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: yanse/comments.php:9
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: yanse/comments.php:10
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: yanse/comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: yanse/comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Bitte lade diese Seite nicht direkt. Danke!"
+
+#: yanse/comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Um die Kommentare zu sehen, müssen Sie "
+"das Passwort eingeben."
+
+#: yanse/comments.php:46
+msgid "No Responses to"
+msgstr "Keine Antwort auf"
+
+#: yanse/comments.php:46
+msgid "One Response to"
+msgstr "Eine Antwort auf"
+
+#: yanse/comments.php:46
+msgid "% Responses to"
+msgstr "% Antworten auf"
+
+#: yanse/comments.php:53
+msgid "&larr; Older comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: yanse/comments.php:54
+msgid "Newer comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: yanse/comments.php:63
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: yanse/comments.php:70
+msgid "Leave a Reply"
+msgstr "Hinterlasse einen Kommentar"
+
+#: yanse/comments.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse eine Antwort für %s"
+
+#: yanse/comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Sie müssen <a href=\"%s\">angemeldet</a> sein, um einen Kommentar abzugeben."
+
+#: yanse/comments.php:77
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Angemeldet als <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: yanse/comments.php:77
+msgid "Log out of this account"
+msgstr "Aus diesem Account ausloggen"
+
+#: yanse/comments.php:77
+msgid "Log out &raquo;"
+msgstr "Abmelden &raquo;"
+
+#: yanse/comments.php:80
+msgid "Name"
+msgstr "Name"
+
+#: yanse/comments.php:80 yanse/comments.php:84
+msgid " (required)"
+msgstr " (erforderlich)"
+
+#: yanse/comments.php:84
+msgid "Email (will not be published)"
+msgstr "E-Mail (wird nicht veröffentlicht)"
+
+#: yanse/comments.php:88
+msgid "Website"
+msgstr "Webseite"
+
+#: yanse/comments.php:93
+msgid "Comment"
+msgstr "Kommentar"
+
+#: yanse/comments.php:96
+msgid "You can use these tags:"
+msgstr "Sie können folgende Tags benutzen:"
+
+#: yanse/functions.php:98
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: yanse/index.php:41
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: yanse/lib/menu.php:13
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: yanse/lib/menu.php:14
+#, fuzzy
+msgid "Additional Navigation"
+msgstr "Zusatznavigation"
+
+#: yanse/lib/menu.php:15
+msgid "Footer Navigation"
+msgstr "Footer-Navigation"
+
+#: yanse/search.php:8
+msgid "Search Results for"
+msgstr "Suchergebnisse für"
+
+#: yanse/search.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Es tut uns leid. Ihre Sucher ergab keinen Treffer, Bitte versuchen Sie es "
+"mit einem anderen Begriff"
+
+#~ msgid "Email"
+#~ msgstr "E-Mail"
+
+#~ msgid "Message"
+#~ msgstr "Nachricht"
+
+#~ msgid "Send message"
+#~ msgstr "Nachricht senden"

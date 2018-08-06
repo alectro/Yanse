@@ -20,11 +20,13 @@ load_template( $optionsfile );
   * Declare textdomain for this child theme.
   * Translations can be added to the /languages/ directory.
   */
+
+/*
 function yanse_language() {
     load_child_theme_textdomain( 'yanse', get_stylesheet_directory() . '/languages' );
 }
 add_action( 'after_setup_theme', 'yanse_language' );
-
+*/
 // Post Thumbnails
 add_theme_support('post-thumbnails');
 
@@ -65,6 +67,7 @@ add_theme_support( 'custom-header', $defaults = array(
 function yanse_admin_head() {
   // Dasboard favicon
 	echo '<link rel="icon" type="image/png" sizes="32x32" href="'.get_stylesheet_directory_uri().'/images/favicon/favicon-dashboard-32x32.png" />';
+
 
 	// Admin Styles
 	echo '<style type="text/css">
@@ -159,7 +162,6 @@ input {
 
 }
 add_action('login_head', 'my_custom_login_logo');
-
 
 /**
  *	Admin Footer Credits
