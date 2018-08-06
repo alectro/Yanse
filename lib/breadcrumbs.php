@@ -9,7 +9,7 @@
  function yanse_breadcrumbs() {
 
  	/* === OPTIONS === */
-  $text['home']     = __('Home', 'yanse'); // text for the 'Home' link
+ 	$text['home']     = __('Home', 'yanse'); // text for the 'Home' link
  	$text['category'] = __('Archive by Category "%s"', 'yanse'); // text for a category page
  	$text['search']   = __('Search Results for "%s" Query', 'yanse'); // text for a search results page
  	$text['tag']      = __('Posts Tagged "%s"', 'yanse'); // text for a tag page
@@ -17,7 +17,6 @@
  	$text['404']      = __('Error 404', 'yanse'); // text for the 404 page
  	$text['page']     = __('Page %s', 'yanse'); // text 'Page N'
  	$text['cpage']    = __('Comment Page %s', 'yanse'); // text 'Comment Page N'
-
 
  	$wrap_before    = '<nav aria-label="You are here:" role="navigation"><ul class="breadcrumbs">'; // the opening wrapper tag
  	$wrap_after     = '</ul></nav><!-- .breadcrumbs -->'; // the closing wrapper tag
