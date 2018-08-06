@@ -1,5 +1,5 @@
-# Yanse Xiao
-YANSE XIAO is a child Theme for YANSE.
+# Yanse
+YANSE is a WordPress Theme using Zurb's Foundation 6.
 **Demo**: http://yanse.colorale.com
 
 ## Author

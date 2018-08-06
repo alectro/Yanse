@@ -6109,7 +6109,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/Users\/colorale\/Sites\/dev\/wp-content\/themes\/yanse-child\/css\/app.css",
+		"oAP": "\/Users\/colorale\/Sites\/dev\/wp-content\/themes\/yanse\/css\/app.css",
 		"oF": 7,
 		"oS": 3,
 		"uL": 1
@@ -6121,10 +6121,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 500222475,
-	"displayValue": "Yanse Child - foundation",
+	"displayValue": "Yanse",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-soon",
-	"iconImageWasSetByUser": 0
+	"iconImageName": "brackets_gray",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
