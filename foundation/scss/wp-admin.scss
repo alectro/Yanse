@@ -1,0 +1,24 @@
+@import 'settings';
+
+#wp-admin-bar-wp-logo {
+  display: none;
+}
+
+
+$button-color: $primary-color;
+$link: darken( $primary-color, 8% );
+$menu-submenu-background: desaturate( darken($primary-color, 20%), 50% );
+
+$menu-submenu-text: $light-gray;
+
+
+$base-color: desaturate( darken($primary-color, 35%), 50% );
+$icon-color: mix( $dark-gray, $primary-color, 40% );
+$highlight-color: $primary-color;
+$notification-color: $alert-color;
+
+$form-checked: $base-color;
+
+
+// Import wp-admin mixins and scss files
+@import "../../../../../wp-admin/css/colors/_admin.scss";

@@ -283,7 +283,7 @@
 	</div>
 
 </footer>
-
+<?php admin_dash(); ?>
 <?php wp_footer(); ?>
 </body>
 </html>

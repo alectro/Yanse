@@ -34,10 +34,18 @@ add_action( 'admin_menu', 'remove_menus' );
 function admin_dash() {
   // If an Admin is logged in
   if ( is_user_logged_in() && current_user_can('administrator')) {
+
       // Add dashboard button and...
       echo '<div class="editor hide-for-small-only"><span class="button normal secondary"><a href="' . get_dashboard_url() . '">' . __( 'Dashboard', 'yanse' ) . '</a></span>';
       // add Edit button
       edit_post_link(__( 'Edit', 'yanse'), '<span class="button normal ">', '</span></div>');
   }
 }
+
+// Custom CSS for the whole admin area
+// Create wp-admin.css in your theme folder
+function wpfme_adminCSS() {
+	echo '<link rel="stylesheet" type="text/css" href="'.get_bloginfo('template_directory').'/wp-admin.css"/>';
+}
+add_action('admin_head', 'wpfme_adminCSS');
 ?>
